@@ -30,9 +30,9 @@ public class Miprimeraventana {
 		ventana.add(texto, BorderLayout.EAST);//texto con enters
 		ventana.add(cuadro, BorderLayout.WEST);//texto en una sola linea
 		ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);//cerrar el programa
-		ventana.setSize(200, 250);//dar tamaño de la ventana
+		ventana.setSize(200, 250);//dar tamaÃ±o de la ventana
 		ventana.setVisible(true);//para que el elemento sea visible
-		
+		//Hola cristian edited By Aitor
 		
 		
 	}
